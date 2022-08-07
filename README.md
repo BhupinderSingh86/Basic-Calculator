@@ -28,4 +28,4 @@ I'm sure there are lots of improvements that could be made but it's a start!
 
 https://bhupinder-basic-calculator.netlify.app/
 
-image.png
+![image](https://user-images.githubusercontent.com/100348736/183295808-53e489db-60b5-4a10-8053-7b1ed609b667.png)
