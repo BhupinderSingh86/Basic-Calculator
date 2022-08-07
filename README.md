@@ -1,30 +1,30 @@
 # Basic Calculator
 
-This is my first ever project after learning some basics of Vanilla JavaScript, which I started learning some weeks ago. I wanted to get to grips with some basic JavaScript operations and understading the relationship between the Brower,DOM, HTML, CSS & JavaScript.
+This is my first ever project after learning some basics of Vanilla JavaScript, which I started learning some weeks ago. I wanted to get to grips with some basic JavaScript operations and understanding the relationship between the Brower, DOM, HTML, CSS & JavaScript.
 
 # Main Learning Points:
+
 -	how to structure a project
--	how HTML elements works / The releationship between the DOM, CSS & JavaScript
+-	how HTML elements works / The relationship between the DOM, CSS & JavaScript
 -	Using JavaScript to make elements interactive
 -	Understanding how to work functions with blocks of code
--	how to create and implement event listerners to this project
+-	how to create and implement event listeners to this project
 -	Using if statements with operators
 -	Creating a link to CSS and JavaScript within HTML
+-	Using console log to check code works in browser console as I go along
 
 I'm sure there are lots of improvements that could be made but it's a start!
 
 # Built with
-
-- Vanilla JavaScript
+-	Vanilla JavaScript
 
 # Getting Started
-
 - Simply download the file
-- Right click on the Cal.HTML file to copy the route path
-- Open a browser page of your choice.
-- Paste the route path into the browser and WA LA :sparkles: you have access to the calculator
+-	Right click on the Cal.HTML file to copy the route path
+-	Open a browser page of your choice.
+-	Paste the route path into the browser and WA LA ✨ you have access to the calculator
 
-# Depolyed
+# Deployed
 
 https://bhupinder-basic-calculator.netlify.app/
 
