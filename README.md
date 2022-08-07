@@ -23,3 +23,9 @@ I'm sure there are lots of improvements that could be made but it's a start!
 - Right click on the Cal.HTML file to copy the route path
 - Open a browser page of your choice.
 - Paste the route path into the browser and WA LA :sparkles: you have access to the calculator
+
+# Depolyed
+
+https://bhupinder-basic-calculator.netlify.app/
+
+image.png
